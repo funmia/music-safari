@@ -28,9 +28,15 @@ The app uses Javascript, Jquery, Node.js, Firebase and was tested using Jasmine.
 
 ![Imgur](http://i.imgur.com/6FTVDce.png)
 
+![Imgur](https://i.imgur.com/PnTtxqS.png)
 
 # Contributors
- - Annalaise Gibbons
- - Antoine Doolaeghe
- - Funmi Adewodu
- - James Ransome
+ - [Annalaise Gibbons](https://github.com/annalaise)
+ - [Antoine Doolaeghe](https://github.com/adoolaeghe)
+ - [Funmi Adewodu](https://github.com/funmia)
+ - [James Ransome](https://github.com/jransome)
+
+# Further Implementation 
+- Add functionnality to delete a song from the map
+- Ability to generate playlists by picking songs from different locations
+- Allow users to post a comment about their song before adding it to the map.
