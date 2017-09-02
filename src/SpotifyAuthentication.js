@@ -75,7 +75,13 @@
     document.getElementById('login-button').addEventListener('click', function() {
 
       var client_id = '870376306fde454fa48ac904ba863ba3'; // Your client id
-      var redirect_uri = 'http://localhost:8888'; // Your redirect uri
+      var redirect_uri; // Your redirect uri
+      
+      if (location.host === 'localhost:8888') {
+        redirect_uri = 'http://localhost:8888'
+      } else {
+        redirect_uri = 'https://music-safari.herokuapp.com'
+      }
 
       var state = generateRandomString(16);
 
