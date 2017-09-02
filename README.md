@@ -22,11 +22,24 @@ The app uses Javascript, Jquery, Node.js, Firebase and was tested using Jasmine.
 - Used to authenticate a user and search songs to be added to the map.
 
 ## Screenshots
+
+ - Homepage
+
 ![Imgur](http://i.imgur.com/wmEUhjk.png)
+
+- Login page
+
+![Imgur](https://i.imgur.com/lGvVTaw.png)
+
+- Songs added by other to the map
 
 ![Imgur](http://i.imgur.com/3pqsIFq.png)
 
+- Search for a song
+
 ![Imgur](http://i.imgur.com/6FTVDce.png)
+
+ - Add it to the map
 
 ![Imgur](https://i.imgur.com/PnTtxqS.png)
 
@@ -36,7 +49,7 @@ The app uses Javascript, Jquery, Node.js, Firebase and was tested using Jasmine.
  - [Funmi Adewodu](https://github.com/funmia)
  - [James Ransome](https://github.com/jransome)
 
-# Further Implementation 
-- Add functionnality to delete a song from the map
+# Further Implementation
+- Add functionality to delete a song from the map
 - Ability to generate playlists by picking songs from different locations
 - Allow users to add a caption before adding a song to the map.
