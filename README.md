@@ -39,4 +39,4 @@ The app uses Javascript, Jquery, Node.js, Firebase and was tested using Jasmine.
 # Further Implementation 
 - Add functionnality to delete a song from the map
 - Ability to generate playlists by picking songs from different locations
-- Allow users to post a comment about their song before adding it to the map.
+- Allow users to add a caption before adding a song to the map.
