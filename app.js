@@ -9,12 +9,17 @@
 
 var express = require('express'); // Express web server framework
 var app = express();
+
+app.set('port', (process.env.PORT || 8888));
+
 app.use(express.static(__dirname));
-console.log('Listening on 8888');
-app.listen(8888);
 
 app.get('/', function(req, res){
   res.send('Hello World');
+});
+
+app.listen(app.get('port'), function() {
+  console.log('Node app is running on port', app.get('port'));
 });
 
 exports.closeServer = function(){
