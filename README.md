@@ -32,7 +32,7 @@ The app uses Javascript, Jquery, Node.js, Firebase and was tested using Jasmine.
 
 ![Imgur](https://i.imgur.com/lGvVTaw.png)
 
-- Songs added by other to the map
+- Songs added by others to the map
 
 ![Imgur](http://i.imgur.com/3pqsIFq.png)
 
